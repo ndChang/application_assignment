@@ -1,3 +1,14 @@
+<h1>How to run this program</h1>
+
+<ul>
+<li>Fork this repo and clone it down to your local machine</li>
+<li>
+cd into the cloned file. Run npm install to install required packages
+</li>
+<li>run npm start</li>
+<li>Go to localhost:3000 to view function website</li>
+</ul>
+
 # Assignment
 
 ## Objectives
@@ -10,7 +21,7 @@ By the end of this project you will:
 
 ## Introduction
 
-Our intern Dan is working on this killer Movie Quotes App that returns a random movie quote. Right now all it does is render a blank screen in the web browser. Fork the repository found here and help Dan fix it.  
+Our intern Dan is working on this killer Movie Quotes App that returns a random movie quote. Right now all it does is render a blank screen in the web browser. Fork the repository found here and help Dan fix it.
 
 ## Specifications
 
